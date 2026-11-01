@@ -1,0 +1,12 @@
+{
+ "keys": [
+  {
+   "kty": "RSA",
+   "n": "q8Doqk2U2EqzGmGYvBxWZ6eNQCyNp66E-zYPsHHVZ-I6BwnozXMm4RludhggA2akUj0WE5UGGmso7wnWLe5wmhoGNbMYfJMCO6Rlnm4aJxMdQ-ve7yKsSWHbVxyz6Mr4O68MaFx-ZRbC6gT3pr_XSKn76Eua2UkJ-LduSj4Eso95KdOMwcN1L0_Les1uEtQ6xSPmP7W49-i9C8uQPTK8tAQjv8fNfscckY7-xZM4Mzs8nA6McrPhnUTc4ZJl4GWL4UIYuppxiA0wJGrUGVbN46TjMNDjuhkbYEc8EDDwwyZBe2WqA8QJ-i7Ver4D0fC6tLEDyO75ILVeLrrnAXtbow",
+   "e": "AQAB",
+   "kid": "rt110-key-1",
+   "alg": "RS256",
+   "use": "sig"
+  }
+ ]
+}

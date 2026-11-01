@@ -1,0 +1,15 @@
+{
+ "issuer": "https://0xnayel.github.io/rt110-idp",
+ "jwks_uri": "https://0xnayel.github.io/rt110-idp/.well-known/jwks.json",
+ "authorization_endpoint": "https://0xnayel.github.io/rt110-idp/auth",
+ "token_endpoint": "https://0xnayel.github.io/rt110-idp/token",
+ "response_types_supported": [
+  "id_token"
+ ],
+ "subject_types_supported": [
+  "public"
+ ],
+ "id_token_signing_alg_values_supported": [
+  "RS256"
+ ]
+}
